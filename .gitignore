@@ -1,0 +1,4 @@
+env/
+.idea/
+*.h5
+*.pyc
